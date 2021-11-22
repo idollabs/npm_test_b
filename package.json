@@ -1,8 +1,9 @@
 {
-	"author": "Andrew Dauphinais",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Andrew Dauphinais",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
